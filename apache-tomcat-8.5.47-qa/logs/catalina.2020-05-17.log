@@ -1,0 +1,2 @@
+17-May-2020 12:29:01.360 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+17-May-2020 12:29:01.441 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 39 ms

@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:27 +0530] "GET /jenkins/job/maven-project/3/console HTTP/1.1" 200 6946
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:27 +0530] "GET /jenkins/static/5076a38a/extensionList/hudson.console.ConsoleAnnotatorFactory/hudson.plugins.timestamper.annotator.TimestampAnnotatorFactory3/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/hudson.tasks._ant.AntOutcomeNote/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/hudson.tasks._ant.AntTargetNote/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/hudson.console.ExpandableDetailsNote/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/hudson.console.ExpandableDetailsNote/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/hudson.plugins.gradle.GradleTaskNote/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/hudson.plugins.gradle.GradleOutcomeNote/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/org.jenkinsci.plugins.workflow.job.console.NewNodeConsoleNote/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/org.jenkinsci.plugins.workflow.job.console.NewNodeConsoleNote/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:28 +0530] "GET /jenkins/static/5076a38a/descriptor/hudson.plugins.gradle.GradleTaskNote/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:29 +0530] "GET /jenkins/static/5076a38a/favicon.ico HTTP/1.1" 200 17542
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:31 +0530] "GET /jenkins/job/maven-project/ HTTP/1.1" 200 4820
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:32 +0530] "GET /jenkins/job/maven-project/checkstyle/trendGraph/png?url=PRIORITY HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/May/2020:13:16:35 +0530] "GET /jenkins/job/maven-project/checkstyle/trendGraph/map?url=PRIORITY HTTP/1.1" 304 -

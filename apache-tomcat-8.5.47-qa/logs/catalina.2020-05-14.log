@@ -1,0 +1,389 @@
+14-May-2020 10:54:14.851 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+14-May-2020 10:54:14.942 INFO [1321] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 90 ms
+14-May-2020 11:54:13.848 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+14-May-2020 11:54:13.939 INFO [1604] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+14-May-2020 12:54:05.948 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+14-May-2020 12:54:06.047 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 96 ms
+14-May-2020 14:16:34.968 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+14-May-2020 14:16:34.973 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+14-May-2020 15:16:54.256 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+14-May-2020 15:16:54.260 INFO [2500] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 2 ms
+14-May-2020 16:16:57.954 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+14-May-2020 16:16:57.957 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+14-May-2020 17:16:25.773 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+14-May-2020 17:16:25.903 INFO [3126] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 29 ms
+14-May-2020 18:07:43.486 INFO [Handling POST /jenkins/pluginManager/install from 0:0:0:0:0:0:0:1 : http-nio-8080-exec-7] hudson.PluginManager.install Starting installation of a batch of 1 plugins plus their dependencies
+14-May-2020 18:07:43.496 INFO [http-nio-8080-exec-7] hudson.model.UpdateSite$Plugin.deploy Adding dependent install of analysis-core for plugin checkstyle
+14-May-2020 18:07:43.497 INFO [http-nio-8080-exec-7] hudson.model.UpdateSite$Plugin.deploy Adding dependent install of maven-plugin for plugin analysis-core
+14-May-2020 18:07:43.497 INFO [http-nio-8080-exec-7] hudson.model.UpdateSite$Plugin.deploy Adding dependent install of javadoc for plugin maven-plugin
+14-May-2020 18:07:43.500 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$DownloadJob.run Starting the installation of javadoc on behalf of admin
+14-May-2020 18:07:51.309 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$UpdateCenterConfiguration.download Downloading javadoc
+14-May-2020 18:07:51.885 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$DownloadJob.run Installation successful: javadoc
+14-May-2020 18:07:51.886 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$DownloadJob.run Starting the installation of maven-plugin on behalf of admin
+14-May-2020 18:07:53.344 INFO [Update center installer thread [#3]: http://updates.jenkins-ci.org/download/plugins/maven-plugin/3.6/maven-plugin.hpi] hudson.model.UpdateCenter$UpdateCenterConfiguration.download Downloading maven-plugin
+14-May-2020 18:08:12.236 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$DownloadJob.run Installation successful: maven-plugin
+14-May-2020 18:08:12.237 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$DownloadJob.run Starting the installation of analysis-core on behalf of admin
+14-May-2020 18:08:13.934 INFO [Update center installer thread [#3]: http://updates.jenkins-ci.org/download/plugins/analysis-core/1.96/analysis-core.hpi] hudson.model.UpdateCenter$UpdateCenterConfiguration.download Downloading analysis-core
+14-May-2020 18:08:18.554 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$DownloadJob.run Installation successful: analysis-core
+14-May-2020 18:08:18.554 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$DownloadJob.run Starting the installation of checkstyle on behalf of admin
+14-May-2020 18:08:20.023 INFO [Update center installer thread [#3]: http://updates.jenkins-ci.org/download/plugins/checkstyle/4.0.0/checkstyle.hpi] hudson.model.UpdateCenter$UpdateCenterConfiguration.download Downloading checkstyle
+14-May-2020 18:08:29.321 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$DownloadJob.run Installation successful: checkstyle
+14-May-2020 18:08:29.321 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$CompleteBatchJob.run Completing installing of plugin batch…
+14-May-2020 18:08:29.322 INFO [Update center installer thread [#3]] hudson.ClassicPluginStrategy.updateDependency Updated dependency of email-ext
+14-May-2020 18:08:32.122 INFO [pool-18-thread-1] jenkins.InitReactorRunner$1.onAttained Started initialization
+14-May-2020 18:08:32.124 INFO [pool-18-thread-1] jenkins.InitReactorRunner$1.onAttained Listed all plugins
+14-May-2020 18:08:32.125 INFO [pool-18-thread-1] jenkins.InitReactorRunner$1.onAttained Prepared all plugins
+14-May-2020 18:08:32.125 INFO [pool-18-thread-1] jenkins.InitReactorRunner$1.onAttained Started all plugins
+14-May-2020 18:08:32.133 INFO [pool-18-thread-3] jenkins.InitReactorRunner$1.onAttained Augmented all extensions
+14-May-2020 18:08:32.140 INFO [pool-18-thread-3] jenkins.InitReactorRunner$1.onAttained System config loaded
+14-May-2020 18:08:32.140 INFO [pool-18-thread-3] jenkins.InitReactorRunner$1.onAttained System config adapted
+14-May-2020 18:08:32.140 INFO [pool-18-thread-3] jenkins.InitReactorRunner$1.onAttained Loaded all jobs
+14-May-2020 18:08:32.140 INFO [pool-18-thread-3] jenkins.InitReactorRunner$1.onAttained Configuration for all jobs updated
+14-May-2020 18:08:32.144 INFO [pool-18-thread-1] jenkins.InitReactorRunner$1.onAttained Completed initialization
+14-May-2020 18:08:32.148 INFO [Update center installer thread [#3]] hudson.model.UpdateCenter$CompleteBatchJob.run Completed installation of 4 plugins in 47 sec
+14-May-2020 19:53:04.001 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+14-May-2020 19:53:04.100 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 97 ms
+14-May-2020 20:27:17.309 WARNING [Handling GET /jenkins/job/maven-project/checkstyle/trendGraph/png from 0:0:0:0:0:0:0:1 : http-nio-8080-exec-8] hudson.init.impl.InstallUncaughtExceptionHandler.lambda$init$0 null
+	org.apache.catalina.connector.ClientAbortException: java.io.IOException: Broken pipe
+		at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:330)
+		at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:293)
+		at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118)
+		at javax.imageio.stream.FileCacheImageOutputStream.close(FileCacheImageOutputStream.java:238)
+		at javax.imageio.ImageIO.write(ImageIO.java:1580)
+		at hudson.util.Graph.doPng(Graph.java:123)
+		at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:627)
+		at org.kohsuke.stapler.Function$MethodFunction.invoke(Function.java:396)
+		at org.kohsuke.stapler.Function$InstanceFunction.invoke(Function.java:408)
+		at org.kohsuke.stapler.Function.bindAndInvoke(Function.java:212)
+		at org.kohsuke.stapler.Function.bindAndInvokeAndServeResponse(Function.java:145)
+		at org.kohsuke.stapler.MetaClass$11.doDispatch(MetaClass.java:535)
+		at org.kohsuke.stapler.NameBasedDispatcher.dispatch(NameBasedDispatcher.java:58)
+		at org.kohsuke.stapler.Stapler.tryInvoke(Stapler.java:747)
+		at org.kohsuke.stapler.Stapler.invoke(Stapler.java:878)
+		at org.kohsuke.stapler.MetaClass$2.doDispatch(MetaClass.java:219)
+		at org.kohsuke.stapler.NameBasedDispatcher.dispatch(NameBasedDispatcher.java:58)
+		at org.kohsuke.stapler.Stapler.tryInvoke(Stapler.java:747)
+		at org.kohsuke.stapler.Stapler.invoke(Stapler.java:878)
+		at org.kohsuke.stapler.MetaClass$9.dispatch(MetaClass.java:456)
+		at org.kohsuke.stapler.Stapler.tryInvoke(Stapler.java:747)
+		at org.kohsuke.stapler.Stapler.invoke(Stapler.java:878)
+		at org.kohsuke.stapler.MetaClass$4.doDispatch(MetaClass.java:280)
+		at org.kohsuke.stapler.NameBasedDispatcher.dispatch(NameBasedDispatcher.java:58)
+		at org.kohsuke.stapler.Stapler.tryInvoke(Stapler.java:747)
+		at org.kohsuke.stapler.Stapler.invoke(Stapler.java:878)
+		at org.kohsuke.stapler.Stapler.invoke(Stapler.java:676)
+		at org.kohsuke.stapler.Stapler.service(Stapler.java:238)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at hudson.util.PluginServletFilter$1.doFilter(PluginServletFilter.java:154)
+		at jenkins.security.ResourceDomainFilter.doFilter(ResourceDomainFilter.java:76)
+		at hudson.util.PluginServletFilter$1.doFilter(PluginServletFilter.java:151)
+		at jenkins.telemetry.impl.UserLanguages$AcceptLanguageFilter.doFilter(UserLanguages.java:128)
+		at hudson.util.PluginServletFilter$1.doFilter(PluginServletFilter.java:151)
+		at hudson.util.PluginServletFilter.doFilter(PluginServletFilter.java:157)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at hudson.security.csrf.CrumbFilter.doFilter(CrumbFilter.java:159)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:84)
+		at hudson.security.UnwrapSecurityExceptionFilter.doFilter(UnwrapSecurityExceptionFilter.java:51)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at jenkins.security.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:118)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at org.acegisecurity.providers.anonymous.AnonymousProcessingFilter.doFilter(AnonymousProcessingFilter.java:125)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at org.acegisecurity.ui.rememberme.RememberMeProcessingFilter.doFilter(RememberMeProcessingFilter.java:142)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at org.acegisecurity.ui.AbstractProcessingFilter.doFilter(AbstractProcessingFilter.java:271)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at jenkins.security.BasicHeaderProcessor.doFilter(BasicHeaderProcessor.java:93)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at org.acegisecurity.context.HttpSessionContextIntegrationFilter.doFilter(HttpSessionContextIntegrationFilter.java:249)
+		at hudson.security.HttpSessionContextIntegrationFilter2.doFilter(HttpSessionContextIntegrationFilter2.java:67)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at hudson.security.ChainedServletFilter.doFilter(ChainedServletFilter.java:90)
+		at hudson.security.HudsonFilter.doFilter(HudsonFilter.java:171)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.kohsuke.stapler.compression.CompressionFilter.doFilter(CompressionFilter.java:49)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at hudson.util.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:82)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.kohsuke.stapler.DiagnosticThreadNameFilter.doFilter(DiagnosticThreadNameFilter.java:30)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at jenkins.security.SuspiciousRequestFilter.doFilter(SuspiciousRequestFilter.java:36)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:645)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:810)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.IOException: Broken pipe
+		at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+		at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+		at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+		at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+		at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+		at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:134)
+		at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+		at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:157)
+		at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1306)
+		at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:731)
+		at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:684)
+		at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:674)
+		at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:646)
+		at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:166)
+		at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:252)
+		at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1567)
+		at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:400)
+		at org.apache.coyote.Response.action(Response.java:206)
+		at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:326)
+		... 93 more
+14-May-2020 20:28:36.393 INFO [Handling POST /jenkins/pluginManager/install from 0:0:0:0:0:0:0:1 : http-nio-8080-exec-4] hudson.PluginManager.install Starting installation of a batch of 1 plugins plus their dependencies
+14-May-2020 20:28:36.396 INFO [Update center installer thread [#4]] hudson.model.UpdateCenter$DownloadJob.run Starting the installation of copyartifact on behalf of admin
+14-May-2020 20:28:38.441 INFO [Update center installer thread [#4]: http://updates.jenkins-ci.org/download/plugins/copyartifact/1.44/copyartifact.hpi] hudson.model.UpdateCenter$UpdateCenterConfiguration.download Downloading copyartifact
+14-May-2020 20:28:39.757 INFO [Update center installer thread [#4]] hudson.model.UpdateCenter$DownloadJob.run Installation successful: copyartifact
+14-May-2020 20:28:39.757 INFO [Update center installer thread [#4]] hudson.model.UpdateCenter$CompleteBatchJob.run Completing installing of plugin batch…
+14-May-2020 20:28:41.449 INFO [Update center installer thread [#4]] hudson.plugins.copyartifact.CopyArtifactConfiguration.load CopyArtifact is set to Production mode.
+14-May-2020 20:28:41.677 INFO [pool-19-thread-1] jenkins.InitReactorRunner$1.onAttained Started initialization
+14-May-2020 20:28:41.679 INFO [pool-19-thread-2] jenkins.InitReactorRunner$1.onAttained Listed all plugins
+14-May-2020 20:28:41.680 INFO [pool-19-thread-2] jenkins.InitReactorRunner$1.onAttained Prepared all plugins
+14-May-2020 20:28:41.680 INFO [pool-19-thread-2] jenkins.InitReactorRunner$1.onAttained Started all plugins
+14-May-2020 20:28:41.682 INFO [pool-19-thread-1] jenkins.InitReactorRunner$1.onAttained Augmented all extensions
+14-May-2020 20:28:41.682 INFO [pool-19-thread-1] jenkins.InitReactorRunner$1.onAttained System config loaded
+14-May-2020 20:28:41.682 INFO [pool-19-thread-1] jenkins.InitReactorRunner$1.onAttained System config adapted
+14-May-2020 20:28:41.682 INFO [pool-19-thread-1] jenkins.InitReactorRunner$1.onAttained Loaded all jobs
+14-May-2020 20:28:41.684 INFO [pool-19-thread-1] jenkins.InitReactorRunner$1.onAttained Configuration for all jobs updated
+14-May-2020 20:28:41.693 INFO [pool-19-thread-1] jenkins.InitReactorRunner$1.onAttained Completed initialization
+14-May-2020 20:28:41.693 INFO [3710] hudson.model.UpdateCenter$CompleteBatchJob.run Completed installation of 1 plugins in 5.2 sec
+14-May-2020 20:34:53.210 INFO [Handling POST /jenkins/pluginManager/install from 0:0:0:0:0:0:0:1 : http-nio-8080-exec-6] hudson.PluginManager.install Starting installation of a batch of 0 plugins plus their dependencies
+14-May-2020 20:34:53.222 INFO [Update center installer thread [#5]] hudson.model.UpdateCenter$CompleteBatchJob.run Completing installing of plugin batch…
+14-May-2020 20:34:54.642 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained Started initialization
+14-May-2020 20:34:54.689 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained Listed all plugins
+14-May-2020 20:34:54.691 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained Prepared all plugins
+14-May-2020 20:34:54.691 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained Started all plugins
+14-May-2020 20:34:54.691 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained Augmented all extensions
+14-May-2020 20:34:54.691 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained System config loaded
+14-May-2020 20:34:54.691 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained System config adapted
+14-May-2020 20:34:54.691 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained Loaded all jobs
+14-May-2020 20:34:54.692 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained Configuration for all jobs updated
+14-May-2020 20:34:54.692 INFO [pool-20-thread-1] jenkins.InitReactorRunner$1.onAttained Completed initialization
+14-May-2020 20:34:54.693 INFO [3740] hudson.model.UpdateCenter$CompleteBatchJob.run Completed installation of 0 plugins in 1.4 sec
+14-May-2020 20:35:30.571 WARNING [Handling GET /jenkins/pluginManager/available from 0:0:0:0:0:0:0:1 : http-nio-8080-exec-9] hudson.init.impl.InstallUncaughtExceptionHandler.lambda$init$0 null
+	javax.servlet.ServletException: org.apache.commons.jelly.JellyTagException: jar:file:/home/chitta/Desktop/Devops/apache-tomcat-8.5.47/webapps/jenkins/WEB-INF/lib/jenkins-core-2.222.3.jar!/hudson/PluginManager/table.jelly:102:76: <j:out> java.io.IOException: Broken pipe
+		at org.kohsuke.stapler.Facet$1.dispatch(Facet.java:247)
+		at org.kohsuke.stapler.Stapler.tryInvoke(Stapler.java:747)
+		at org.kohsuke.stapler.Stapler.invoke(Stapler.java:878)
+		at org.kohsuke.stapler.MetaClass$1.doDispatch(MetaClass.java:169)
+		at org.kohsuke.stapler.NameBasedDispatcher.dispatch(NameBasedDispatcher.java:58)
+		at org.kohsuke.stapler.Stapler.tryInvoke(Stapler.java:747)
+		at org.kohsuke.stapler.Stapler.invoke(Stapler.java:878)
+		at org.kohsuke.stapler.Stapler.invoke(Stapler.java:676)
+		at org.kohsuke.stapler.Stapler.service(Stapler.java:238)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at hudson.util.PluginServletFilter$1.doFilter(PluginServletFilter.java:154)
+		at jenkins.security.ResourceDomainFilter.doFilter(ResourceDomainFilter.java:76)
+		at hudson.util.PluginServletFilter$1.doFilter(PluginServletFilter.java:151)
+		at jenkins.telemetry.impl.UserLanguages$AcceptLanguageFilter.doFilter(UserLanguages.java:128)
+		at hudson.util.PluginServletFilter$1.doFilter(PluginServletFilter.java:151)
+		at hudson.util.PluginServletFilter.doFilter(PluginServletFilter.java:157)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at hudson.security.csrf.CrumbFilter.doFilter(CrumbFilter.java:159)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:84)
+		at hudson.security.UnwrapSecurityExceptionFilter.doFilter(UnwrapSecurityExceptionFilter.java:51)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at jenkins.security.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:118)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at org.acegisecurity.providers.anonymous.AnonymousProcessingFilter.doFilter(AnonymousProcessingFilter.java:125)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at org.acegisecurity.ui.rememberme.RememberMeProcessingFilter.doFilter(RememberMeProcessingFilter.java:142)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at org.acegisecurity.ui.AbstractProcessingFilter.doFilter(AbstractProcessingFilter.java:271)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at jenkins.security.BasicHeaderProcessor.doFilter(BasicHeaderProcessor.java:93)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at org.acegisecurity.context.HttpSessionContextIntegrationFilter.doFilter(HttpSessionContextIntegrationFilter.java:249)
+		at hudson.security.HttpSessionContextIntegrationFilter2.doFilter(HttpSessionContextIntegrationFilter2.java:67)
+		at hudson.security.ChainedServletFilter$1.doFilter(ChainedServletFilter.java:87)
+		at hudson.security.ChainedServletFilter.doFilter(ChainedServletFilter.java:90)
+		at hudson.security.HudsonFilter.doFilter(HudsonFilter.java:171)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.kohsuke.stapler.compression.CompressionFilter.doFilter(CompressionFilter.java:49)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at hudson.util.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:82)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.kohsuke.stapler.DiagnosticThreadNameFilter.doFilter(DiagnosticThreadNameFilter.java:30)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at jenkins.security.SuspiciousRequestFilter.doFilter(SuspiciousRequestFilter.java:36)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:645)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:798)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:810)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.commons.jelly.JellyTagException: jar:file:/home/chitta/Desktop/Devops/apache-tomcat-8.5.47/webapps/jenkins/WEB-INF/lib/jenkins-core-2.222.3.jar!/hudson/PluginManager/table.jelly:102:76: <j:out> java.io.IOException: Broken pipe
+		at org.apache.commons.jelly.impl.TagScript.handleException(TagScript.java:726)
+		at org.apache.commons.jelly.impl.TagScript.run(TagScript.java:279)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.tags.core.CoreTagLibrary$1.run(CoreTagLibrary.java:98)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.apache.commons.jelly.TagSupport.invokeBody(TagSupport.java:161)
+		at org.apache.commons.jelly.tags.core.ForEachTag.doTag(ForEachTag.java:150)
+		at org.apache.commons.jelly.impl.TagScript.run(TagScript.java:269)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.apache.commons.jelly.TagSupport.invokeBody(TagSupport.java:161)
+		at org.apache.commons.jelly.tags.core.WhenTag.doTag(WhenTag.java:46)
+		at org.apache.commons.jelly.impl.TagScript.run(TagScript.java:269)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.apache.commons.jelly.TagSupport.invokeBody(TagSupport.java:161)
+		at org.apache.commons.jelly.tags.core.ChooseTag.doTag(ChooseTag.java:38)
+		at org.apache.commons.jelly.impl.TagScript.run(TagScript.java:269)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.CallTagLibScript$1.run(CallTagLibScript.java:99)
+		at org.apache.commons.jelly.tags.define.InvokeBodyTag.doTag(InvokeBodyTag.java:91)
+		at org.apache.commons.jelly.impl.TagScript.run(TagScript.java:269)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.apache.commons.jelly.tags.core.CoreTagLibrary$1.run(CoreTagLibrary.java:98)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.apache.commons.jelly.tags.core.CoreTagLibrary$2.run(CoreTagLibrary.java:105)
+		at org.kohsuke.stapler.jelly.CallTagLibScript.run(CallTagLibScript.java:120)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.CallTagLibScript$1.run(CallTagLibScript.java:99)
+		at org.apache.commons.jelly.tags.define.InvokeBodyTag.doTag(InvokeBodyTag.java:91)
+		at org.apache.commons.jelly.impl.TagScript.run(TagScript.java:269)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.ReallyStaticTagLibrary$1.run(ReallyStaticTagLibrary.java:99)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.kohsuke.stapler.jelly.CallTagLibScript$1.run(CallTagLibScript.java:99)
+		at org.apache.commons.jelly.tags.define.InvokeBodyTag.doTag(InvokeBodyTag.java:91)
+		at org.apache.commons.jelly.impl.TagScript.run(TagScript.java:269)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.apache.commons.jelly.tags.core.CoreTagLibrary$2.run(CoreTagLibrary.java:105)
+		at org.kohsuke.stapler.jelly.CallTagLibScript.run(CallTagLibScript.java:120)
+		at org.apache.commons.jelly.impl.ScriptBlock.run(ScriptBlock.java:95)
+		at org.apache.commons.jelly.tags.core.CoreTagLibrary$2.run(CoreTagLibrary.java:105)
+		at org.kohsuke.stapler.jelly.CallTagLibScript.run(CallTagLibScript.java:120)
+		at org.apache.commons.jelly.tags.core.CoreTagLibrary$2.run(CoreTagLibrary.java:105)
+		at org.kohsuke.stapler.jelly.CallTagLibScript.run(CallTagLibScript.java:120)
+		at org.apache.commons.jelly.tags.core.CoreTagLibrary$2.run(CoreTagLibrary.java:105)
+		at org.kohsuke.stapler.jelly.JellyViewScript.run(JellyViewScript.java:95)
+		at org.kohsuke.stapler.jelly.DefaultScriptInvoker.invokeScript(DefaultScriptInvoker.java:63)
+		at org.kohsuke.stapler.jelly.DefaultScriptInvoker.invokeScript(DefaultScriptInvoker.java:53)
+		at org.kohsuke.stapler.jelly.ScriptInvoker.execute(ScriptInvoker.java:56)
+		at org.kohsuke.stapler.jelly.ScriptInvoker.execute(ScriptInvoker.java:43)
+		at org.kohsuke.stapler.Facet$1.dispatch(Facet.java:238)
+		... 74 more
+	Caused by: org.apache.catalina.connector.ClientAbortException: java.io.IOException: Broken pipe
+		at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:372)
+		at org.apache.catalina.connector.OutputBuffer.flushByteBuffer(OutputBuffer.java:841)
+		at org.apache.catalina.connector.OutputBuffer.append(OutputBuffer.java:746)
+		at org.apache.catalina.connector.OutputBuffer.writeBytes(OutputBuffer.java:407)
+		at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:385)
+		at org.apache.catalina.connector.CoyoteOutputStream.write(CoyoteOutputStream.java:96)
+		at com.jcraft.jzlib.DeflaterOutputStream.deflate(DeflaterOutputStream.java:144)
+		at com.jcraft.jzlib.DeflaterOutputStream.write(DeflaterOutputStream.java:102)
+		at org.kohsuke.stapler.compression.FilterServletOutputStream.write(FilterServletOutputStream.java:41)
+		at org.kohsuke.stapler.jelly.DefaultScriptInvoker$1.write(DefaultScriptInvoker.java:133)
+		at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:221)
+		at sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:291)
+		at sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:295)
+		at sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141)
+		at java.io.OutputStreamWriter.flush(OutputStreamWriter.java:229)
+		at java.io.BufferedWriter.flush(BufferedWriter.java:254)
+		at org.dom4j.io.XMLWriter.flush(XMLWriter.java:275)
+		at org.apache.commons.jelly.XMLOutput.flush(XMLOutput.java:127)
+		at org.apache.commons.jelly.impl.TagScript.run(TagScript.java:271)
+		... 137 more
+	Caused by: java.io.IOException: Broken pipe
+		at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+		at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+		at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+		at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+		at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
+		at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:134)
+		at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+		at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:157)
+		at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1306)
+		at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:731)
+		at org.apache.tomcat.util.net.SocketWrapperBase.writeBlocking(SocketWrapperBase.java:501)
+		at org.apache.tomcat.util.net.SocketWrapperBase.write(SocketWrapperBase.java:439)
+		at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.doWrite(Http11OutputBuffer.java:623)
+		at org.apache.coyote.http11.filters.ChunkedOutputFilter.doWrite(ChunkedOutputFilter.java:121)
+		at org.apache.coyote.http11.Http11OutputBuffer.doWrite(Http11OutputBuffer.java:225)
+		at org.apache.coyote.Response.doWrite(Response.java:600)
+		at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:360)
+		... 155 more
+14-May-2020 20:36:06.194 INFO [Update center installer thread [#6]] hudson.model.UpdateCenter$DownloadJob.run Starting the installation of deploy on behalf of admin
+14-May-2020 20:36:06.195 INFO [Update center installer thread [#6]] hudson.model.UpdateCenter$UpdateCenterConfiguration.download Downloading deploy
+14-May-2020 20:36:09.325 INFO [pool-21-thread-1] jenkins.InitReactorRunner$1.onAttained Started initialization
+14-May-2020 20:36:09.330 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained Listed all plugins
+14-May-2020 20:36:09.331 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained Prepared all plugins
+14-May-2020 20:36:09.331 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained Started all plugins
+14-May-2020 20:36:09.331 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained Augmented all extensions
+14-May-2020 20:36:09.331 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained System config loaded
+14-May-2020 20:36:09.331 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained System config adapted
+14-May-2020 20:36:09.331 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained Loaded all jobs
+14-May-2020 20:36:09.331 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained Configuration for all jobs updated
+14-May-2020 20:36:09.331 INFO [pool-21-thread-2] jenkins.InitReactorRunner$1.onAttained Completed initialization
+14-May-2020 20:36:09.332 INFO [3753] hudson.model.UpdateCenter$DownloadJob.run Installation successful: deploy
